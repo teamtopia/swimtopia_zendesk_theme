@@ -1,3 +1,59 @@
+## [2.13.7](https://github.com/zendesk/copenhagen_theme/compare/v2.13.6...v2.13.7) (2022-03-02)
+
+
+### Bug Fixes
+
+* add aria-label on agent markers ([b17f9b6](https://github.com/zendesk/copenhagen_theme/commit/b17f9b6744d53998ac070c4fa55022e460bf6c56))
+
+## [2.13.6](https://github.com/zendesk/copenhagen_theme/compare/v2.13.5...v2.13.6) (2022-03-02)
+
+
+### Bug Fixes
+
+* add aria-label to the '+ N more badges' links ([e478a82](https://github.com/zendesk/copenhagen_theme/commit/e478a82f7fbb856469b51ac011dc5f0a125eabf0))
+
+## [2.13.5](https://github.com/zendesk/copenhagen_theme/compare/v2.13.4...v2.13.5) (2022-03-02)
+
+
+### Bug Fixes
+
+* add aria-label to search results submenu toggle buttons ([8b66a0a](https://github.com/zendesk/copenhagen_theme/commit/8b66a0ad599e0bd62ec07bc8ecef6a76a61a977e))
+
+## [2.13.4](https://github.com/zendesk/copenhagen_theme/compare/v2.13.3...v2.13.4) (2022-03-01)
+
+
+### Bug Fixes
+
+* ensure powered by zendesk does not get visited color ([1f1287e](https://github.com/zendesk/copenhagen_theme/commit/1f1287e9e5b31a50c20b20313ea1e9ebf25c2d75))
+* prevent blocks from showing visited color ([8459dc8](https://github.com/zendesk/copenhagen_theme/commit/8459dc8ba6665f6ba328d59e2b05aa71fcf1ef90))
+* prevent button from showing visited color ([c282f53](https://github.com/zendesk/copenhagen_theme/commit/c282f536d1dc44e7a5e8b0d3c39dfa4efce38d65))
+* remove link color from search filters ([f59c97a](https://github.com/zendesk/copenhagen_theme/commit/f59c97a6cc2d2c853680e69296e3a68ff57b655b))
+* revert style changes to search result filters ([f40ddfd](https://github.com/zendesk/copenhagen_theme/commit/f40ddfd26aa5fb10bedadf6fe87079e771d150de))
+* style Join the converstation link as standalone ([8bbd100](https://github.com/zendesk/copenhagen_theme/commit/8bbd10031f03b8325fcb18959d53a1855feba32b))
+* style promoted article links according to design ([a67fc23](https://github.com/zendesk/copenhagen_theme/commit/a67fc2347e021db4dafe480e1f84a9032e2e9ab9))
+* style recent activity links according to design ([78cc954](https://github.com/zendesk/copenhagen_theme/commit/78cc954e67dc8f38981eed32d5ee64b7e0aefb2a))
+* style sign in link as standalone ([95376cb](https://github.com/zendesk/copenhagen_theme/commit/95376cb86b5341e1d5f05528b9d6a9ae333e42e7))
+* style Submit a request link as standalone ([8fea59a](https://github.com/zendesk/copenhagen_theme/commit/8fea59a10d9d967ca4b66ce5034a0c1cf5202d86))
+* update link styles according to designs ([b79e595](https://github.com/zendesk/copenhagen_theme/commit/b79e59540773206887f128515bbf467e799dd185))
+* update style of article side nav links according to design ([78af755](https://github.com/zendesk/copenhagen_theme/commit/78af7554e159375780644673c471dc17adaba012))
+* **style:** make breadcrumb link color different from text ([2ea4283](https://github.com/zendesk/copenhagen_theme/commit/2ea428384054d05d82fa486bbfa71ee940fa9a32))
+
+## [2.13.3](https://github.com/zendesk/copenhagen_theme/compare/v2.13.2...v2.13.3) (2022-02-07)
+
+
+### Bug Fixes
+
+* **styles:** make search icon click through ([f812829](https://github.com/zendesk/copenhagen_theme/commit/f8128297cc56a208fc36c373524d0401d4314a64))
+* mark search icon as decorative to improve a11y ([0427a7d](https://github.com/zendesk/copenhagen_theme/commit/0427a7dea78d63f1b177fd7d0b1387b8d7f5eb1f))
+
+## [2.13.2](https://github.com/zendesk/copenhagen_theme/compare/v2.13.1...v2.13.2) (2022-01-25)
+
+
+### Bug Fixes
+
+* add separator in user dropdown ([fcfab74](https://github.com/zendesk/copenhagen_theme/commit/fcfab748cf1353961d8b670b839efccec274191d))
+* change separator color according to design ([76346d4](https://github.com/zendesk/copenhagen_theme/commit/76346d4cf1059621fd38b913bce6a552551c2799))
+
 ## [2.13.1](https://github.com/zendesk/copenhagen_theme/compare/v2.13.0...v2.13.1) (2021-12-14)
 
 
